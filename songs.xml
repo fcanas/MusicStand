@@ -1,0 +1,19 @@
+<data>
+   <entry>
+      <title>Song Title Goes Here</title>
+      <page>
+         <line>C#m_____________E</line>
+         <line>Some lyrics and chords like so.</line>
+      </page>
+   </entry>
+
+   <entry>
+      <title>Another song</title>
+      <page>
+         <line>Whatever you want.</line>
+      </page>
+      <page>
+         <line>Whatever else.</line>
+      </page>
+   </entry>
+</data>
